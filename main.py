@@ -14,7 +14,7 @@ async def rank(ctx, team_name):
         for tn in v:
             if tn.lower() == team_name.lower():
                 await ctx.channel.send(f"RANK: {k}")
-                break
+                return
     await ctx.channel.send(f"{team_name} is not found.")
             
 	
