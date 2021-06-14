@@ -38,4 +38,3 @@ trt = {"SS": ["NX", "γ", "xf"],
              "ALC", "BEY", "DRK", "Est", "EW", "GB", "IGi", "inc", "LEM", "LTC", "NGFC", "SCK",
              "PT", "QK", "Qz", "Roxane", "Rry", "Sla", "SPC", "CST", "WAM", "Whk", "εzK", "ごはん",
              "Xeno α", "ヘイホー", "NPB", "WEN", "Nexus", "Gc"]}
-
