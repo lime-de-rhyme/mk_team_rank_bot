@@ -25,7 +25,6 @@ $rank nx
 # Installation
 下記URLからDiscordに導入できます。  
 You can install it on Discord from the following URL.  
-Discord認証URL
 https://discord.com/api/oauth2/authorize?client_id=853503519754551307&permissions=2048&scope=bot
  
 
