@@ -29,7 +29,7 @@ async def rank(ctx, team_name):
                 return
     if team_name.lower() == "hhi":
     	black_star, white_star =  rank_of_HhI()
-    	await ctx.channel.send(f"{team_name} has two divisions.\nHhI★ is {black_star} rank, HhI☆ is {white_star} rank.")
+    	await ctx.channel.send(f"HhI has two divisions.\nHhI★ is {black_star} rank, HhI☆ is {white_star} rank.")
     	return
     else:
         await ctx.channel.send(f"{team_name} is not found.")
