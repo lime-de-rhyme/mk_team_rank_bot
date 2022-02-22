@@ -1,5 +1,10 @@
 # MK TEAM RANK BOT
- 
+現在このボットは稼働していません。  
+This bot is currently not running.
+
+2021年6月時点でのチームランク表を基にしています。  
+This bot is based on the team rank list as of June 2021.  
+
 このボットはみお(https://twitter.com/MK_LDHmio) が作成したチームランク表を基に作成されたものです。  
 This bot is based on the team rank list created by Mio.
 
